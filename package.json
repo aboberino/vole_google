@@ -1,0 +1,17 @@
+{
+  "name": "VOLE_GOOGLE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p-limit": "^3.1.0",
+    "scraperapi-sdk": "^1.0.6"
+  }
+}
